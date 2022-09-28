@@ -13,7 +13,9 @@
                 "text-color": "#8f41ad"
             },
             "Keyword": {
-                "italic": true
+                "italic": true,
+                "selected-text-color": "#de4453",
+                "text-color": "#dd4453"
             },
             "Metamethod": {
                 "bold": true,
